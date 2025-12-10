@@ -1,6 +1,3 @@
-下面给你一份**完整、美观、专业级别的 README.md**，格式符合生物信息学工具的常用标准（类似 RNAhybrid、IntaRNA、TargetScan 的风格），也适用于你的 GitHub 项目首页。
-
----
 
 Hide-Seek-cemiR
 
@@ -227,5 +224,6 @@ If you use *Hide-Seek-cemiR* in your research, please cite:
 ---
 Author
 Hong Yang, Hokkaido University
+
 
 
